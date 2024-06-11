@@ -1,4 +1,32 @@
-[submodule "woowacourse/level-1-racingcar"]
-	path = woowacourse/level-1-racingcar
+[submodule "woowacourse/level1/racingcar-step1"]
+	path = woowacourse/level1/racingcar-step1
 	url = https://github.com/healim01/javascript-racingcar
 	branch = step1
+[submodule "woowacourse/level1/racingcar-step2"]
+	path = woowacourse/level1/racingcar-step2
+	url = https://github.com/healim01/javascript-racingcar
+	branch = step2
+[submodule "woowacourse/level1/lotto-step1"]
+	path = woowacourse/level1/lotto-step1
+	url = https://github.com/healim01/javascript-lotto.git
+	branch = step1
+[submodule "woowacourse/level1/lotto-step2"]
+	path = woowacourse/level1/lotto-step2
+	url = https://github.com/healim01/javascript-lotto.git
+	branch = step2
+[submodule "woowacourse/level1/lunch-step1"]
+	path = woowacourse/level1/lunch-step1
+	url = https://github.com/healim01/javascript-lunch.git
+	branch = step1
+[submodule "woowacourse/level1/lunch-step2"]
+	path = woowacourse/level1/lunch-step2
+	url = https://github.com/healim01/javascript-lunch.git
+	branch = step2
+[submodule "woowacourse/level1/movie-review-step1"]
+	path = woowacourse/level1/movie-review-step1
+	url = https://github.com/healim01/javascript-movie-review.git
+	branch = step1
+[submodule "woowacourse/level1/movie-review-step2"]
+	path = woowacourse/level1/movie-review-step2
+	url = https://github.com/healim01/javascript-movie-review.git
+	branch = step2
