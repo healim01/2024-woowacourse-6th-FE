@@ -30,3 +30,36 @@
 	path = woowacourse/level1/movie-review-step2
 	url = https://github.com/healim01/javascript-movie-review.git
 	branch = step2
+
+[submodule "woowacourse/level2/payments-step1"]
+	path = woowacourse/level2/payments-step1
+	url = https://github.com/healim01/react-payments.git
+	branch = step1
+[submodule "woowacourse/level2/payments-step2"]
+	path = woowacourse/level2/payments-step2
+	url = https://github.com/healim01/react-payments.git
+	branch = step2
+[submodule "woowacourse/level2/modules-step1"]
+	path = woowacourse/level2/modules-step1
+	url = https://github.com/healim01/react-modules.git
+	branch = step1
+[submodule "woowacourse/level2/modules-step2"]
+	path = woowacourse/level2/modules-step2
+	url = https://github.com/healim01/react-modules.git
+	branch = step2
+[submodule "woowacourse/level2/shopping-cart-step1"]
+	path = woowacourse/level2/shopping-cart-step1
+	url = https://github.com/healim01/react-shopping-cart.git
+	branch = step1
+[submodule "woowacourse/level2/shopping-cart-step2"]
+	path = woowacourse/level2/shopping-cart-step2
+	url = https://github.com/healim01/react-shopping-cart.git
+	branch = step2
+[submodule "woowacourse/level2/shopping-products-step1"]
+	path = woowacourse/level2/shopping-products-step1
+	url = https://github.com/healim01/react-shopping-products.git
+	branch = step1
+[submodule "woowacourse/level2/shopping-products-step2"]
+	path = woowacourse/level2/shopping-products-step2
+	url = https://github.com/healim01/react-shopping-products.git
+	branch = step2
