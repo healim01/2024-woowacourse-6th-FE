@@ -1,4 +1,0 @@
-[submodule "woowacourse/level-1-racingcar"]
-	path = woowacourse/level-1-racingcar
-	url = https://github.com/healim01/javascript-racingcar
-	branch = step1
