@@ -11,7 +11,7 @@
 | 자동차 경주 게임 🏎️ | [@월하](https://github.com/vi-wolhwa)   | 하루         |
 | 로또 🎱             | [@리버](https://github.com/0jenn0)      | 블링         |
 | 점심 뭐 먹지 🍴     | [@버건디](https://github.com/brgndyy)   | 카일         |
-| 영화 리뷰 🎬        | [@렛서](https://github.com/BadaHertz52) | 케빈         |
+| 영화 리뷰 🎬        | [@바다](https://github.com/BadaHertz52) | 케빈         |
 
 <br/>
 
