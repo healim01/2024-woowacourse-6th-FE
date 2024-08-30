@@ -25,3 +25,7 @@
 | 상품 목록 🎧     | [@빙봉](https://github.com/Yoonkyoungme) | 샐리         |[바로가기](https://github.com/healim01/react-shopping-products/tree/c3ebd212eb2fdd0aa8617da451165b136c75e990) |[바로가기](https://github.com/healim01/react-shopping-products/tree/1140ce260b1c504b7cba9215272591149bb76ef2) |
 
 <br/>
+
+### 테코톡 진행 
+**주제 - 커스텀 훅; 커스텀 훅 사용 중 생긴 고민에 대한 나의 경험 공유**    
+[테코톡 아카이빙 바로가기](https://github.com/healim01/hailey-techotalk-custom_hook)
